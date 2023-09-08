@@ -63,7 +63,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 - Jan Dvořák [GitHub](https://github.com/sponsors/storytellercz), [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/storyteller)
-- Jan Küster [GitHub](https://github.com/sponsors/jankapunkt), [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/jkuester)
+- Jan Küster [GitHub](https://github.com/sponsors/jankapunkt), [Twitter](https://twitter.com/Kuester_Jan), [Meteor Forums](https://forums.meteor.com/u/jkuester)
 - Alim Gafar [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/alimgafar)
 
 Who else should we be following!?
