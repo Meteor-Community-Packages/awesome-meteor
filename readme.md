@@ -57,7 +57,7 @@ Awesome packages listed in groups.
   - [aldeed:collection2](https://github.com/Meteor-Community-Packages/meteor-collection2) A Meteor package that allows you to attach a schema to a Mongo.Collection. Automatically validates against that schema when inserting and updating from client or server code.
   - [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) Extends Mongo.Collection with before/after hooks for insert, update, remove, find, and findOne.
   - [meteor-publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) Provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive.
-  - [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers) Collection helpers automatically sets up a transformation on your collections
+  - [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers) Collection helpers automatically sets up a transformation on your collections.
 
 - Scale
   - [redis-oplog](https://github.com/Meteor-Community-Packages/redis-oplog) Re-implementation of the Meteor's MongoDB oplog tailing with the help of Redis. This package will solve lots of scale problems.
