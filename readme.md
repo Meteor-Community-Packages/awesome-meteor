@@ -38,8 +38,8 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 ## Featured (new releases)
 
-- [Meteor 2.13.1](https://docs.meteor.com/changelog#v213120230904) - Current recommended release
-- [Meteor 3 PR](https://github.com/meteor/meteor/pull/12359) - Development of the next generation of Meteor.js
+- [Meteor 2.13.1](https://docs.meteor.com/changelog#v213120230904) - Current recommended release.
+- [Meteor 3 PR](https://github.com/meteor/meteor/pull/12359) - Development of the next generation of Meteor.js.
 
 ## News
 
