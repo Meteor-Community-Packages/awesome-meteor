@@ -30,6 +30,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 - [News](#News)
 - [Packages](#Packages)
 - [Guides](#Guides)
+- [Services](#Services)
 - [Companies](#Companies)
 - [Follow](#follow)
 
@@ -99,13 +100,14 @@ Awesome packages listed in groups.
 
 - [Official Meteor Guide](https://guide.meteor.com)
 
+## Services
+
+- [Galaxy](https://galaxy.meteor.com/) All the services a Meteor application needs.
+- [Monti APM](https://montiapm.com/) APM service for your Meteor application. The free package will help you a lot.
+
 ## Companies
 
 -
-
-## Services
-- [Galaxy](https://galaxy.meteor.com/) All the services a Meteor application needs.
-- [Monti APM](https://montiapm.com/) APM service for your Meteor application. The free package will help you a lot.
 
 <!-- END CONTENT -->
 
