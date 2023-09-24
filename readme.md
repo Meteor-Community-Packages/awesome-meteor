@@ -117,7 +117,7 @@ Awesome packages listed in groups.
 - Jan Dvořák [GitHub](https://github.com/sponsors/storytellercz), [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/storyteller)
 - Jan Küster [GitHub](https://github.com/sponsors/jankapunkt), [Twitter](https://twitter.com/Kuester_Jan), [Meteor Forums](https://forums.meteor.com/u/jkuester)
 - Alim Gafar [Twitter](https://twitter.com/alimgafar), [Meteor Forums](https://forums.meteor.com/u/alimgafar)
-- Radosław Miernik [Github](https://github.com/radekmie)
+- Radosław Miernik [GitHub](https://github.com/radekmie)
 - Dr. Dimitru [GitHub](https://github.com/dr-dimitru)
 - Frederico Maia [GitHub](https://github.com/fredmaiaarantes)
 - Filipe Nevola [GitHub](https://github.com/filipenevola), [Twitter](https://twitter.com/FilipeNevola)
