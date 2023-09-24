@@ -13,7 +13,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/guncebektas/awesome-meteor/awesome-meteor.jpg" width="200"/>
+  <img src="https://github.com/guncebektas/awesome-meteor/blob/main/awesome-meteor.jpg" width="200"/>
 </a>
 
 <!-- description -->
