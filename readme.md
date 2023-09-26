@@ -30,6 +30,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 - [News](#News)
 - [Packages](#Packages)
 - [Guides](#Guides)
+- [Courses](#Courses)
 - [Services](#Services)
 - [Companies](#Companies)
 - [Follow](#follow)
@@ -59,16 +60,22 @@ Awesome packages listed in groups.
   - [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) - Extends Mongo.Collection with before/after hooks for insert, update, remove, find, and findOne.
   - [meteor-publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - Provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive.
   - [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers) - Collection helpers automatically sets up a transformation on your collections.
+  - [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher: Meteor Collection Joins + Reactive GraphQL like queries.
+  - [quave:collections](https://github.com/quavedev/collections) - Helps to create collections in a standard way.
 
-- Scale
+- Scalability & Performance Improvers
   - [redis-oplog](https://github.com/Meteor-Community-Packages/redis-oplog) - Re-implementation of the Meteor's MongoDB oplog tailing with the help of Redis. This package will solve lots of scale problems.
   - [oplogtoredis](https://github.com/tulip/oplogtoredis) - Not a package but may be needed when using redis-oplog. This program tails the oplog of a Mongo server, and publishes changes to Redis.
   - [changestream-to-redis](https://github.com/radekmie/changestream-to-redis) - Not a package but may be needed when using redis-oplog. This program listens to a MongoDB Change Stream, and publishes changes to Redis. An alternative to oplogtoredis.
+  - [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) - Transform publications to be non-reactive.
+  - [artillery-engine-meteor](https://github.com/kschingiz/artillery-engine-meteor) - Artillery load testing for MeteorJS applications.
 
-- User Roles
+- Users & Roles
   - [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - Authorization package for Meteor - compatible with built-in accounts package.
+  - [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) - Keeps track of users and their metadata.
 
-- Form
+- Forms
+  - [uniforms](https://github.com/vazco/uniforms) - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
   - [aldeed:autoform](https://github.com/Meteor-Community-Packages/meteor-autoform) - Adds UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation. 
   - [aldeed:schema-deny](https://github.com/longshotlabs/meteor-schema-deny) - Allows you to deny inserting or updating certain properties in your database by setting options in your schema.
 
@@ -77,9 +84,11 @@ Awesome packages listed in groups.
 
 - File Management
   - [meteor-files](https://github.com/veliovgroup/Meteor-Files) - Simple files management.
+  - [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in meteor.
 
 - Internationalization
   - [universe:i18n](https://github.com/vazco/meteor-universe-i18n) - Internationalization package.
+  - [Meteor-Internationalization](https://github.com/veliovgroup/Meteor-Internationalization) - Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.
 
 - Logging
   - [ostrio:logger](https://packosphere.com/ostrio/logger) - Logger driver for Meteor.js with different adapters.
@@ -87,18 +96,34 @@ Awesome packages listed in groups.
 - Performance Monitoring
   - [montiapm:agent](https://github.com/monti-apm/monti-apm-agent) - Monitor your Meteor app in production to improve performance and fix errors.
   - [meteorhacks:zones](https://github.com/meteorhacks/zones) - Improves error tracking. It can be used to capture stack traces over the async execution path.
+  - [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) - Performance monitoring for Meteor based on Elastic APM.
 
 - Routers
   - [ostrio:flow-router-extra](https://github.com/veliovgroup/flow-router) - Routing for client-side apps and compatible with React, Vue, Svelte, and Blaze.
 
-- Blaze
-  - [aldeed:template-extension](https://github.com/longshotlabs/meteor-template-extension) - Great extension for blaze templates. This package will help you to reduce code duplications.
-  - [easy:search](https://matteodem.github.io/meteor-easy-search/) - Simple and flexible solution for adding search components.
+- Cron Jobs
+  - [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron) - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
+  - [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor (NodeJS) instances.
 
+- Debugging Tools
+  - [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) - A chrome extension.
+
+- Deployment
+  - [meteor-up](https://github.com/zodern/meteor-up) – Helps you to deploy Meteor application to your server with a single command. Works well with redisoplog.
+
+- Blaze
+  - [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) - Utility helpers for your Blaze templates.
+  - [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) - Layout manager for Blaze (works well with FlowRouter)
+  - [aldeed:template-extension](https://github.com/longshotlabs/meteor-template-extension) - Great extension for blaze templates. This helps you to inherit helpers and events from other templates and reduces code duplications.
+  - [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search component with Blaze (+ elasticsearch support)
 
 ## Guides
 
 - [Official Meteor Guide](https://guide.meteor.com)
+
+## Courses
+- [Youtube](https://www.youtube.com/@MeteorVideos) - Learn by Youtube videos.
+- [EventedMind](https://learn-meteor.netlify.app/) - It's old but goes into detail regarding how Meteor internals.
 
 ## Services
 
