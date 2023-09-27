@@ -28,7 +28,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [News](#News)
+- [News & Blogs](#news-and-blogs)
 - [Packages](#Packages)
 - [Guides](#Guides)
 - [Courses](#Courses)
@@ -43,10 +43,10 @@ Awesome packages, articles, tips and people all around Meteor.js
 - [Meteor 2.13.1](https://docs.meteor.com/changelog#v213120230904) - Current recommended release.
 - [Meteor 3 PR](https://github.com/meteor/meteor/pull/12359) - Development of the next generation of Meteor.js.
 
-## News
+## News and Blogs
 
 - [Official Meteor Blog](https://blog.meteor.com/)
-- [Meteor Dispatched Weekly news podcast](https://www.youtube.com/@meteorjscommunity/podcasts)
+- [Meteor Dispatched - Weekly News Podcast](https://www.youtube.com/@meteorjscommunity/podcasts)
 
 ## Packages
 Awesome packages listed in groups.
