@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Meteor.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml/badge.svg)](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml)
+# Awesome Meteor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml/badge.svg)](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -103,26 +103,26 @@ Awesome packages listed in groups.
 
 - Cron Jobs
   - [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron) - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
-  - [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor (NodeJS) instances.
+  - [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor (Node.js) instances.
 
 - Debugging Tools
   - [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) - A chrome extension.
 
 - Deployment
-  - [meteor-up](https://github.com/zodern/meteor-up) – Helps you to deploy Meteor application to your server with a single command. Works well with redisoplog.
+  - [meteor-up](https://github.com/zodern/meteor-up) - Helps you to deploy Meteor application to your server with a single command (Works well with redisoplog).
 
 - Blaze
   - [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) - Utility helpers for your Blaze templates.
-  - [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) - Layout manager for Blaze (works well with FlowRouter)
+  - [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) - Layout manager for Blaze (works well with FlowRouter).
   - [aldeed:template-extension](https://github.com/longshotlabs/meteor-template-extension) - Great extension for blaze templates. This helps you to inherit helpers and events from other templates and reduces code duplications.
-  - [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search component with Blaze (+ elasticsearch support)
+  - [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search component with Blaze (+ elasticsearch support).
 
 ## Guides
 
 - [Official Meteor Guide](https://guide.meteor.com)
 
 ## Courses
-- [Youtube](https://www.youtube.com/@MeteorVideos) - Learn by Youtube videos.
+- [YouTube](https://www.youtube.com/@MeteorVideos) - Learn by YouTube videos.
 - [EventedMind](https://learn-meteor.netlify.app/) - It's old but goes into detail regarding how Meteor internals.
 
 ## Services
