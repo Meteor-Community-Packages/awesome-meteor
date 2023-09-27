@@ -28,7 +28,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [News & Blogs](#news-and-blogs)
+- [News and Blogs](#news-and-blogs)
 - [Packages](#Packages)
 - [Guides](#Guides)
 - [Courses](#Courses)
@@ -45,8 +45,8 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 ## News and Blogs
 
-- [Official Meteor Blog](https://blog.meteor.com/)
-- [Meteor Dispatched - Weekly News Podcast](https://www.youtube.com/@meteorjscommunity/podcasts)
+- [Meteor Blog](https://blog.meteor.com/) - Official Blog of Meteor. 
+- [Meteor Dispatched - Weekly News Podcast](https://www.youtube.com/@meteorjscommunity/podcasts) - Amazing podcast driven by the community about Meteor.
 
 ## Packages
 Awesome packages listed in groups.
