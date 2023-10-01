@@ -9,7 +9,7 @@
 
 <!-- subtitle -->
 
-Awesome packages, articles, tips and people all around Meteor.js
+Awesome packages, articles, tips and people all around Meteor
 
 <!-- image -->
 
@@ -19,7 +19,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 <!-- description -->
 
-<a href="https://www.meteor.com" target="_blank" rel="noopener noreferrer">Meteor.js</a> is an open source platform for building Web, Mobile, and Desktop applications.
+<a href="https://www.meteor.com" target="_blank" rel="noopener noreferrer">Meteor</a> is an open source platform for building Web, Mobile, and Desktop applications.
 
 </div>
 
@@ -41,12 +41,12 @@ Awesome packages, articles, tips and people all around Meteor.js
 ## Featured (new releases)
 
 - [Meteor 2.13.1](https://docs.meteor.com/changelog#v213120230904) - Current recommended release.
-- [Meteor 3 PR](https://github.com/meteor/meteor/pull/12359) - Development of the next generation of Meteor.js.
+- [Meteor 3 PR](https://github.com/meteor/meteor/pull/12359) - Development of the next generation of Meteor.
 
 ## News and Blogs
 
 - [Meteor Blog](https://blog.meteor.com/) - Official blog of Meteor Software. 
-- [Meteor Dispatched - Weekly podcast](https://www.youtube.com/@meteorjscommunity/podcasts) - Amazing podcast driven by the community about Meteor.js and related things.
+- [Meteor Dispatched - Weekly podcast](https://www.youtube.com/@meteorjscommunity/podcasts) - Amazing podcast driven by the community about Meteor and related things.
 
 ## Packages
 Awesome packages listed in groups.
@@ -71,7 +71,9 @@ Awesome packages listed in groups.
   - [oplogtoredis](https://github.com/tulip/oplogtoredis) - Not a package but may be needed when using redis-oplog. This program tails the oplog of a Mongo server, and publishes changes to Redis.
   - [changestream-to-redis](https://github.com/radekmie/changestream-to-redis) - Not a package but may be needed when using redis-oplog. This program listens to a MongoDB Change Stream, and publishes changes to Redis. An alternative to oplogtoredis.
   - [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) - Transform publications to be non-reactive.
-  - [artillery-engine-meteor](https://github.com/kschingiz/artillery-engine-meteor) - Artillery load testing for MeteorJS applications.
+  - [artillery-engine-meteor](https://github.com/kschingiz/artillery-engine-meteor) - Artillery load testing for Meteor applications.
+  - [bundle-visualizer](https://docs.meteor.com/packages/bundle-visualizer) - An analysis tool which provides a visual representation within the web browser showing what is included in the initial client bundle.
+  - [ddp-rate-limiter](https://docs.meteor.com/api/methods.html#ddpratelimiter) - Customize rate limiting for methods and subscriptions to avoid a high load of WebSocket messages in your app.
 
 - Users & Roles
   - [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - Authorization package for Meteor - compatible with built-in accounts package.
@@ -86,14 +88,14 @@ Awesome packages listed in groups.
 
 - File Management
   - [meteor-files](https://github.com/veliovgroup/Meteor-Files) - Simple files management.
-  - [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in Meteor.js.
+  - [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in Meteor.
 
 - Internationalization
   - [universe:i18n](https://github.com/vazco/meteor-universe-i18n) - Internationalization package.
   - [Meteor-Internationalization](https://github.com/veliovgroup/Meteor-Internationalization) - Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.
 
 - Logging
-  - [ostrio:logger](https://packosphere.com/ostrio/logger) - Logger driver for Meteor.js with different adapters.
+  - [ostrio:logger](https://packosphere.com/ostrio/logger) - Logger driver for Meteor with different adapters.
 
 - Performance Monitoring
   - [montiapm:agent](https://github.com/monti-apm/monti-apm-agent) - Monitor your Meteor app in production to improve performance and fix errors.
@@ -162,6 +164,7 @@ Awesome packages listed in groups.
 - Dr. Dimitru [GitHub](https://github.com/dr-dimitru), [Meteor Forums](https://forums.meteor.com/u/dr.dimitru)
 - Frederico Maia [GitHub](https://github.com/fredmaiaarantes), [Twitter](https://twitter.com/fredmaiaarantes), [Meteor Forums](https://forums.meteor.com/u/fredmaiaarantes)
 - Filipe Nevola [GitHub](https://github.com/filipenevola), [Twitter](https://twitter.com/FilipeNevola), [Meteor Forums](https://forums.meteor.com/u/filipenevola)
+- Grubba [GitHub](https://github.com/Grubba27), [Twitter](https://twitter.com/gab_grubba),[Meteor Forums](https://forums.meteor.com/u/grubba/summary)
 
 Who else should we be following!?
 
