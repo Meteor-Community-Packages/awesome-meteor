@@ -70,6 +70,7 @@ Awesome packages listed in groups.
   - [changestream-to-redis](https://github.com/radekmie/changestream-to-redis) - Not a package but may be needed when using redis-oplog. This program listens to a MongoDB Change Stream, and publishes changes to Redis. An alternative to oplogtoredis.
   - [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) - Transform publications to be non-reactive.
   - [artillery-engine-meteor](https://github.com/kschingiz/artillery-engine-meteor) - Artillery load testing for MeteorJS applications.
+  - [bundle-visualizer](https://docs.meteor.com/packages/bundle-visualizer) - An analysis tool which provides a visual representation within the web browser showing what is included in the initial client bundle.
 
 - Users & Roles
   - [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - Authorization package for Meteor - compatible with built-in accounts package.
