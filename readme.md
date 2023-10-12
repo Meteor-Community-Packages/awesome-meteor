@@ -5,7 +5,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Meteor.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml/badge.svg)](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml)
+# Awesome Meteor.JS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml/badge.svg)](https://github.com/Meteor-Community-Packages/awesome-meteor/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -34,6 +34,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 - [Courses](#courses)
 - [Services](#services)
 - [Companies](#companies)
+- [Open Source Apps](#open-source-apps)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -56,12 +57,16 @@ Awesome packages listed in groups.
   - [mdg:validated-method](https://github.com/meteor/validated-method) - Define methods in a structured way, with mixins.
   - [meteor-partitioner](https://github.com/Meteor-Community-Packages/meteor-partitioner) - Transparently divide a single Meteor.js app into several different instances shared between different groups of users.
 
+- Analytics
+  - [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
+  - [quave:analytics](https://github.com/quavedev/analytics) - A Meteor package that allows you to send your page views and more to Google Analytics. 
+
 - Collections
   - [aldeed:collection2](https://github.com/Meteor-Community-Packages/meteor-collection2) - Attach a schema to a Mongo.Collection. Automatically validates against that schema when inserting and updating from client or server code.
   - [aldeed:schema-deny](https://github.com/longshotlabs/meteor-schema-deny) - Allows you to deny inserting or updating certain properties in your database by setting options in your schema.
   - [aldeed:schema-index](https://github.com/longshotlabs/meteor-schema-index) - Control some MongoDB indexing from your SimpleSchema.
   - [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) - Extends Mongo.Collection with before/after hooks for insert, update, remove, find, and findOne.
-  - [meteor-publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - Provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive.
+  - [rywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - Provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive.
   - [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers) - Collection helpers automatically sets up a transformation on your collections.
   - [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher: Meteor.js Collection Joins + Reactive GraphQL like queries.
   - [quave:collections](https://github.com/quavedev/collections) - Helps to create collections in a standard way.
@@ -85,6 +90,9 @@ Awesome packages listed in groups.
 
 - Data Display
   - [aldeed:tabular](https://github.com/Meteor-Community-Packages/meteor-tabular) - Creates reactive DataTables in an efficient way, allowing you to display the contents of enormous collections without impacting app performance.
+  - [aslagle:reactive-table](https://github.com/aslagle/reactive-table/) - Reactive table for Meteor.js, using Blaze.js.
+  - [luixal:blaze-paginated-custom-list](https://github.com/luixal/meteor-blaze-paginated-custom-list) - Reactive and paginated item list.
+  - [luixal:meteor-apexcharts](https://github.com/luixal/meteor-apexcharts) - Reactive ApexCharts library packaged for Meteor.js.
 
 - File Management
   - [meteor-files](https://github.com/veliovgroup/Meteor-Files) - Simple files management.
@@ -98,14 +106,17 @@ Awesome packages listed in groups.
   - [ostrio:logger](https://packosphere.com/ostrio/logger) - Logger driver with different adapters.
 
 - Performance Monitoring
+  - [mdg:meteor-apm-agent](https://atmospherejs.com/mdg/meteor-apm-agent) - If you are hosting on Galaxy professional tier you should install this package to get performance monitoring in Galaxy APM.
   - [montiapm:agent](https://github.com/monti-apm/monti-apm-agent) - Monitor your application in production to improve performance and fix errors.
   - [meteorhacks:zones](https://github.com/meteorhacks/zones) - Improves error tracking. It can be used to capture stack traces over the async execution path.
   - [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) - Performance monitoring for Meteor.js applications based on Elastic APM.
 
 - Routers
   - [ostrio:flow-router-extra](https://github.com/veliovgroup/flow-router) - Routing for client-side apps and compatible with React, Vue, Svelte, and Blaze.
+  - [communitypackages:picker](https://github.com/Meteor-Community-Packages/picker/) - Server side router for Meteor 2.
 
 - Cron Jobs
+  - [msavin:sjobs](https://github.com/msavin/stevejobs/) - A Meteor.js-first jobs queue / task scheduler. 
   - [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron) - Cron system for Meteor.js. It supports synchronizing jobs between multiple processes.
   - [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor.js (Node.js) instances.
 
@@ -120,6 +131,13 @@ Awesome packages listed in groups.
   - [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) - Layout manager for Blaze (works well with FlowRouter).
   - [aldeed:template-extension](https://github.com/longshotlabs/meteor-template-extension) - Great extension for blaze templates. This helps you to inherit helpers and events from other templates and reduces code duplications.
   - [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search component with Blaze (+ elasticsearch support).
+
+- SEO
+  - [mdg:seo](https://atmospherejs.com/mdg/seo) - Makes use of the built-in SEO support in Galaxy.
+  - [ostrio:spiderable-middleware](https://github.com/VeliovGroup/spiderable-middleware/) - Prerendering (_a.k.a. Spiderable_) with support of ES6 (ECMAScript2015) - Meteor app crawled perfectly by search engines.
+
+- Tooling
+  - [ESLint-plugin-Meteor](https://github.com/dferber90/eslint-plugin-meteor/) - ESLint plugin for Meteor.js.
 
 ## Guides
 
@@ -150,6 +168,13 @@ Awesome packages listed in groups.
 - [Self Made](https://www.selfmade.co/)
 - [The Forage](https://www.theforage.com/)
 - [Wekan](https://wekan.github.io/)
+
+## Open Source Apps
+- [Rocket.Chat](https://rocket.chat/) - Realtime chat application.
+- [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban.
+- [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - MongoDB management tool.
+- [radgrad2](https://github.com/radgrad/radgrad2) - Education management system.
+- [coauthor](https://github.com/edemaine/coauthor) - Coauthor supercollaboration/discussion forum.
 
 <!-- END CONTENT -->
 
