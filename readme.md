@@ -14,7 +14,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/Meteor-Community-Packages/awesome-meteor/blob/main/awesome-meteor.jpg" width="200" alt="Awesome Meteor.js"/>
+  <img src="https://github.com/Meteor-Community-Packages/awesome-meteor/blob/main/awesome-meteor.png" width="200" alt="Awesome Meteor.js"/>
 </a>
 
 <!-- description -->
@@ -170,7 +170,7 @@ Awesome packages listed in groups.
 - [Wekan](https://wekan.github.io/)
 
 ## Open Source Apps
-- [Rocket.Chat](https://rocket.chat/) - Realtime chat application.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Realtime chat application.
 - [Wekan](https://github.com/wekan/wekan) - Open source Trello-like kanban.
 - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - MongoDB management tool.
 - [radgrad2](https://github.com/radgrad/radgrad2) - Education management system.
@@ -189,7 +189,7 @@ Awesome packages listed in groups.
 - Dr. Dimitru [GitHub](https://github.com/dr-dimitru), [Meteor Forums](https://forums.meteor.com/u/dr.dimitru)
 - Frederico Maia [GitHub](https://github.com/fredmaiaarantes), [Twitter](https://twitter.com/fredmaiaarantes), [Meteor Forums](https://forums.meteor.com/u/fredmaiaarantes)
 - Filipe Nevola [GitHub](https://github.com/filipenevola), [Twitter](https://twitter.com/FilipeNevola), [Meteor Forums](https://forums.meteor.com/u/filipenevola)
-- Grubba [GitHub](https://github.com/Grubba27), [Twitter](https://twitter.com/gab_grubba),[Meteor Forums](https://forums.meteor.com/u/grubba/summary)
+- Gabriel Grubba [GitHub](https://github.com/Grubba27), [Twitter](https://twitter.com/gab_grubba),[Meteor Forums](https://forums.meteor.com/u/grubba/summary)
 
 Who else should we be following!?
 
