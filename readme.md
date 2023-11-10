@@ -124,8 +124,8 @@ Awesome packages listed in groups.
 
 ## Guides
 
-- [Official Meteor Guide](https://guide.meteor.com)
-- [How to migrate to Meteor Async in Meteor 2.x](https://guide.meteor.com/prepare-meteor-3.0)
+- [Official Meteor Guide](https://guide.meteor.com) - Official Meteor.js guide to improve your Meteor.js skills.
+- [How to migrate to Meteor Async in Meteor 2.x](https://guide.meteor.com/prepare-meteor-3.0) - Meteor.js 3.0 will be fiber-free. This is the official guide to prepare your application to the Meteor.js 3.0 version. 
 
 ## Courses
 - [YouTube](https://www.youtube.com/@MeteorVideos) - Learn by YouTube videos.
