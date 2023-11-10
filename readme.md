@@ -36,6 +36,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 - [Companies](#companies)
 - [Open Source Apps](#open-source-apps)
 - [Follow](#follow)
+- [Other](#other)
 
 <!-- CONTENT -->
 
@@ -176,8 +177,6 @@ Awesome packages listed in groups.
 - [radgrad2](https://github.com/radgrad/radgrad2) - Education management system.
 - [coauthor](https://github.com/edemaine/coauthor) - Coauthor supercollaboration/discussion forum.
 
-<!-- END CONTENT -->
-
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
@@ -192,6 +191,13 @@ Awesome packages listed in groups.
 - Gabriel Grubba [GitHub](https://github.com/Grubba27), [Twitter](https://twitter.com/gab_grubba),[Meteor Forums](https://forums.meteor.com/u/grubba/summary)
 
 Who else should we be following!?
+
+## Other
+
+- [Awesome Node.js security](https://github.com/lirantal/awesome-nodejs-security)
+- [🍃 A curated list of awesome MongoDB resources, libraries, tools and applications](https://github.com/ramnes/awesome-mongodb)
+
+<!-- END CONTENT -->
 
 ## Contributing
 
