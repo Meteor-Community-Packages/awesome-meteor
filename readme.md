@@ -48,6 +48,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 - [Meteor Blog](https://blog.meteor.com/) - Official blog of Meteor Software. 
 - [Meteor Dispatched - Weekly podcast](https://www.youtube.com/@meteorjscommunity/podcasts) - Amazing podcast driven by the community about Meteor.js and related things.
 
+
 ## Packages
 Awesome packages listed in groups.
 
@@ -124,6 +125,7 @@ Awesome packages listed in groups.
 ## Guides
 
 - [Official Meteor Guide](https://guide.meteor.com)
+- [How to migrate to Meteor Async in Meteor 2.x](https://guide.meteor.com/prepare-meteor-3.0)
 
 ## Courses
 - [YouTube](https://www.youtube.com/@MeteorVideos) - Learn by YouTube videos.
