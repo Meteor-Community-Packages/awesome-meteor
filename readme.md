@@ -159,21 +159,40 @@ Awesome packages listed in groups.
 
 ## Companies
 
-- [Any Run](https://any.run/)
+- [Any Run](https://any.run/) - Interactive malware analyzer.
+- [Apify](https://apify.com/) - The platform where developers build, deploy, and monitor web scraping and browser automation tools is using Meteor.js at their application https://console.apify.com/
+- [Awell Health](https://www.awellhealth.com/) - Automate routine clinical tasks. 
 - [Azumuta](https://www.azumuta.com/)
+- [Candis](https://app.candis.io/) - Digitize your invoice management now.
+- [Chatra](https://app.chatra.io/) - Live chat, chatbots, email & social messaging for business
+- [Cheat Code](https://cheatcode.co/login) - The application at https://cheatcode.co/login is written with Meteor.js.
 - [Code Signal](https://codesignal.com/)
-- [Favro](https://www.favro.com/)
+- [CSGO.NET](https://csgo.net/) - CSGO related website is written by Meteor.js.
+- [Edabit](https://edabit.com/) - A better way to learn programming. 
+- [Favro](https://www.favro.com/) - Collaborative planning application at https://favro.com/l/login is written with Meteor.js.
 - [Flow Hub](https://flowhub.com/)
 - [Hubro](https://hubro.education/)
 - [Ledgy](https://ledgy.com/)
 - [Literary Universe](https://www.literaryuniverse.com/)
+- [Long Tail](https://longtailpro.com/) - Keyword research tool for long tail keywords at https://app.longtailpro.com/ is written with Meteor.js.
 - [Maestro QA](https://www.maestroqa.com/)
+- [md5hashing](https://md5hashing.net/) - The service provides tooling for hashing.
+- [Mockup Jar](https://mockupsjar.com/) - Eacy to use mockup generator.
+- [MongoBooster](https://www.mongobooster.com/) - The application is written with Meteor.js.
 - [Qualia](https://www.qualia.com/)
-- [Rocket Chat](https://www.rocket.chat/)
+- [Plutio](https://www.plutio.com/) - Toolkit to run your business application at https://app.plutio.com/ is written with Meteor.js. 
+- [Ritapos](https://ritapos.com) - Their point-of-sale application at https://app.ritapos.com is written with Meteor.js.
+- [Rocket Chat](https://www.rocket.chat/) - Largest open source communications community in the world is written with Meteor.js.
 - [Roti.express](https://roti.express/)
 - [Self Made](https://www.selfmade.co/)
+- [Sidebar](https://sidebar.io/)
+- [Signature](https://si.gnatu.re/) - Create your personalised HTML email signature.
+- [Submit Hub](https://www.submithub.com/) - The most-transparent place to promote your music.
+- [Swydo](https://www.swydo.com/) - Automated Reporting and Monitoring for Online Marketers application at https://app.swydo.com/ is written with Meteor.js.
+- [Team Grid](https://web.teamgrid.app/) - Team management tool at https://web.teamgrid.app/ is written with Meteor.js. 
 - [The Forage](https://www.theforage.com/)
 - [Wekan](https://wekan.github.io/)
+- [Zip Board](https://zipboard.co/) - Proofing tool for faster approval and production application at https://app.zipboard.co is written with Meteor.js.
 
 ## Open Source Apps
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Realtime chat application.
