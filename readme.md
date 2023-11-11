@@ -52,6 +52,7 @@ Awesome packages, articles, tips and people all around Meteor.js
 
 
 ## Packages
+
 Awesome packages listed in groups.
 
 - Application Structure
@@ -147,6 +148,7 @@ Awesome packages listed in groups.
 - [How to migrate to Meteor Async in Meteor 2.x](https://guide.meteor.com/prepare-meteor-3.0) - Meteor.js 3.0 will be fiber-free. This is the official guide to prepare your application to the Meteor.js 3.0 version. 
 
 ## Courses
+
 - [YouTube](https://www.youtube.com/@MeteorVideos) - Learn by YouTube videos.
 - [EventedMind](https://learn-meteor.netlify.app/) - It's old but goes into detail regarding how Meteor.js internals.
 
@@ -156,6 +158,7 @@ Awesome packages listed in groups.
 - [Monti APM](https://montiapm.com/) - APM service for your Meteor.js application. The free package will help you a lot.
 
 ## Companies
+
 - [Any Run](https://any.run/)
 - [Azumuta](https://www.azumuta.com/)
 - [Code Signal](https://codesignal.com/)
