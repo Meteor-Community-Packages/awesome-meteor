@@ -162,36 +162,42 @@ Awesome packages listed in groups.
 - [Any Run](https://any.run/) - Interactive malware analyzer.
 - [Apify](https://apify.com/) - The platform where developers build, deploy, and monitor web scraping and browser automation tools is using Meteor.js at their application https://console.apify.com/
 - [Awell Health](https://www.awellhealth.com/) - Automate routine clinical tasks. 
-- [Azumuta](https://www.azumuta.com/)
+- [Azumuta](https://www.azumuta.com/) - Most complete software tool that eliminates the use of paperwork in your factory. Their application at https://app.azumuta.com/login is written with Meteor.js.
+- [Bike Soup](https://www.bikesoup.com/) - The cycle marketplace.
+- [Biscoint](https://biscoint.io/) - Compare and find in realtime the best effective prices in Brazil's top Bitcoin exchanges. 
 - [Candis](https://app.candis.io/) - Digitize your invoice management now.
 - [Chatra](https://app.chatra.io/) - Live chat, chatbots, email & social messaging for business
 - [Cheat Code](https://cheatcode.co/login) - The application at https://cheatcode.co/login is written with Meteor.js.
-- [Code Signal](https://codesignal.com/)
+- [Code Signal](https://codesignal.com/) - Seamless technical hiring, from screening to interview.
 - [CSGO.NET](https://csgo.net/) - CSGO related website is written by Meteor.js.
+- [Cuadds](https://www.cuadds.com/) - The productivity platform that lets you do things your way.
 - [Edabit](https://edabit.com/) - A better way to learn programming. 
 - [Favro](https://www.favro.com/) - Collaborative planning application at https://favro.com/l/login is written with Meteor.js.
-- [Flow Hub](https://flowhub.com/)
-- [Hubro](https://hubro.education/)
-- [Ledgy](https://ledgy.com/)
+- [Flow Hub](https://flowhub.com/) - Fast, reliable, and easy to use, Flowhub is the dispensary growth platform built for compliant, high-performing cannabis retailers.
+- [Hubro](https://hubro.education/) - Online business simulations that allow participants to practice business skills through experiential learning.
+- [Ledgy](https://ledgy.com/) - Ledgy is the equity management platform that takes your company further.
 - [Literary Universe](https://www.literaryuniverse.com/)
 - [Long Tail](https://longtailpro.com/) - Keyword research tool for long tail keywords at https://app.longtailpro.com/ is written with Meteor.js.
-- [Maestro QA](https://www.maestroqa.com/)
+- [Maestro QA](https://www.maestroqa.com/) - Improves agent performance, measure BPOs, power Root-Cause Analysis.
 - [md5hashing](https://md5hashing.net/) - The service provides tooling for hashing.
 - [Mockup Jar](https://mockupsjar.com/) - Eacy to use mockup generator.
 - [MongoBooster](https://www.mongobooster.com/) - The application is written with Meteor.js.
-- [Qualia](https://www.qualia.com/)
+- [Qualia](https://www.qualia.com/) - Powering real estate’s digital transformation.
 - [Plutio](https://www.plutio.com/) - Toolkit to run your business application at https://app.plutio.com/ is written with Meteor.js. 
-- [Ritapos](https://ritapos.com) - Their point-of-sale application at https://app.ritapos.com is written with Meteor.js.
+- [Ritapos](https://ritapos.com) - Cloud based POS solution for cafes & restaurants. Their point-of-sale application at https://app.ritapos.com is written with Meteor.js.
 - [Rocket Chat](https://www.rocket.chat/) - Largest open source communications community in the world is written with Meteor.js.
-- [Roti.express](https://roti.express/)
-- [Self Made](https://www.selfmade.co/)
-- [Sidebar](https://sidebar.io/)
+- [Roti.express](https://roti.express/) - Get instant feedbacks from your meetings, training sessions, workshops, conferences.
+- [Seidat](https://www.seidat.com/) - Modern presentation platform for sales teams. Their application at https://app.seidat.com is written with Meteor.js.
+- [Self Made](https://www.selfmade.co/) - Procuring high-quality creatives has never been more straightforward or accessible.
+- [Sidebar](https://sidebar.io/) - Sidebar has been collecting the best design links of the day since October 2012. It's maintained by Sacha Greif and built with Vulcan Meteor. Sidebar's code is open-source and available on GitHub.
 - [Signature](https://si.gnatu.re/) - Create your personalised HTML email signature.
 - [Submit Hub](https://www.submithub.com/) - The most-transparent place to promote your music.
 - [Swydo](https://www.swydo.com/) - Automated Reporting and Monitoring for Online Marketers application at https://app.swydo.com/ is written with Meteor.js.
 - [Team Grid](https://web.teamgrid.app/) - Team management tool at https://web.teamgrid.app/ is written with Meteor.js. 
-- [The Forage](https://www.theforage.com/)
-- [Wekan](https://wekan.github.io/)
+- [The Forage](https://www.theforage.com/) - Explore careers and prepare for the job with hundreds of free job simulations designed by the world's top employers.
+- [Visibook](https://visibook.com/) - The easiest way to schedule customers and send appointment reminders.
+- [xcusy](https://www.xcusy.com/) - Free and Anonymous Alternative to Chatroulette.
+- [Wekan](https://wekan.github.io/) - Open-Source Kanban.
 - [Zip Board](https://zipboard.co/) - Proofing tool for faster approval and production application at https://app.zipboard.co is written with Meteor.js.
 
 ## Open Source Apps
