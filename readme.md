@@ -193,7 +193,8 @@ Awesome packages listed in groups.
 - [Signature](https://si.gnatu.re/) - Create your personalised HTML email signature.
 - [Submit Hub](https://www.submithub.com/) - The most-transparent place to promote your music.
 - [Swydo](https://www.swydo.com/) - Automated Reporting and Monitoring for Online Marketers application at https://app.swydo.com/ is written with Meteor.js.
-- [Team Grid](https://web.teamgrid.app/) - Team management tool at https://web.teamgrid.app/ is written with Meteor.js. 
+- [Team Grid](https://web.teamgrid.app/) - Team management tool at https://web.teamgrid.app/ is written with Meteor.js.
+- [Testrigor](https://testrigor.com) - Generative AI-based test automation tool.
 - [The Forage](https://www.theforage.com/) - Explore careers and prepare for the job with hundreds of free job simulations designed by the world's top employers.
 - [Visibook](https://visibook.com/) - The easiest way to schedule customers and send appointment reminders.
 - [xcusy](https://www.xcusy.com/) - Free and Anonymous Alternative to Chatroulette.
