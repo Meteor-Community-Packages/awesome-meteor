@@ -184,6 +184,7 @@ Awesome packages listed in groups.
 - [MongoBooster](https://www.mongobooster.com/) - The application is written with Meteor.js.
 - [Qualia](https://www.qualia.com/) - Powering real estate's digital transformation.
 - [Plutio](https://www.plutio.com/) - Toolkit to run your business application at https://app.plutio.com/ is written with Meteor.js. 
+- [Rankuup](https://rankuup.com/)
 - [Ritapos](https://ritapos.com) - Cloud based POS solution for cafes & restaurants. Their point-of-sale application at https://app.ritapos.com is written with Meteor.js.
 - [Rocket Chat](https://www.rocket.chat/) - Largest open source communications community in the world is written with Meteor.js.
 - [Roti.express](https://roti.express/) - Get instant feedbacks from your meetings, training sessions, workshops, conferences.
@@ -211,15 +212,15 @@ Awesome packages listed in groups.
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-- Jan Dvořák [GitHub](https://github.com/sponsors/storytellercz), [Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/storyteller)
-- Jan Küster [GitHub](https://github.com/sponsors/jankapunkt), [Twitter](https://twitter.com/Kuester_Jan), [Meteor Forums](https://forums.meteor.com/u/jkuester)
+- Jan Dvořák [GitHub](https://github.com/sponsors/storytellercz), [X/Twitter](https://twitter.com/storytellercz), [Meteor Forums](https://forums.meteor.com/u/storyteller)
+- Jan Küster [GitHub](https://github.com/sponsors/jankapunkt), [X/Twitter](https://twitter.com/Kuester_Jan), [Meteor Forums](https://forums.meteor.com/u/jkuester)
 - Zodern [GitHub](https://github.com/zodern), [Meteor Forums](https://forums.meteor.com/u/zodern/)
-- Alim Gafar [Twitter](https://twitter.com/alimgafar), [Meteor Forums](https://forums.meteor.com/u/alimgafar)
+- Alim Gafar [X/Twitter](https://twitter.com/alimgafar), [Meteor Forums](https://forums.meteor.com/u/alimgafar)
 - Radosław Miernik [GitHub](https://github.com/radekmie), [Meteor Forums](https://forums.meteor.com/u/radekmie)
 - Dr. Dimitru [GitHub](https://github.com/dr-dimitru), [Meteor Forums](https://forums.meteor.com/u/dr.dimitru)
-- Frederico Maia [GitHub](https://github.com/fredmaiaarantes), [Twitter](https://twitter.com/fredmaiaarantes), [Meteor Forums](https://forums.meteor.com/u/fredmaiaarantes)
-- Filipe Nevola [GitHub](https://github.com/filipenevola), [Twitter](https://twitter.com/FilipeNevola), [Meteor Forums](https://forums.meteor.com/u/filipenevola)
-- Gabriel Grubba [GitHub](https://github.com/Grubba27), [Twitter](https://twitter.com/gab_grubba),[Meteor Forums](https://forums.meteor.com/u/grubba/summary)
+- Frederico Maia [GitHub](https://github.com/fredmaiaarantes), [X/Twitter](https://twitter.com/fredmaiaarantes), [Meteor Forums](https://forums.meteor.com/u/fredmaiaarantes)
+- Filipe Nevola [GitHub](https://github.com/filipenevola), [X/Twitter](https://twitter.com/FilipeNevola), [Meteor Forums](https://forums.meteor.com/u/filipenevola)
+- Gabriel Grubba [GitHub](https://github.com/Grubba27), [X/Twitter](https://twitter.com/gab_grubba),[Meteor Forums](https://forums.meteor.com/u/grubba/summary)
 
 Who else should we be following!?
 
