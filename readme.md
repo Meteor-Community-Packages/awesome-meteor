@@ -160,13 +160,13 @@ Awesome packages listed in groups.
 ## Companies
 
 - [Any Run](https://any.run/) - Interactive malware analyzer.
-- [Apify](https://apify.com/) - The platform where developers build, deploy, and monitor web scraping and browser automation tools is using Meteor.js at their application https://console.apify.com/
+- [Apify](https://apify.com/) - The platform where developers build, deploy, and monitor web scraping and browser automation tools is using Meteor.js at their application https://console.apify.com/.
 - [Awell Health](https://www.awellhealth.com/) - Automate routine clinical tasks. 
 - [Azumuta](https://www.azumuta.com/) - Most complete software tool that eliminates the use of paperwork in your factory. Their application at https://app.azumuta.com/login is written with Meteor.js.
 - [Bike Soup](https://www.bikesoup.com/) - The cycle marketplace.
 - [Biscoint](https://biscoint.io/) - Compare and find in realtime the best effective prices in Brazil's top Bitcoin exchanges. 
 - [Candis](https://app.candis.io/) - Digitize your invoice management now.
-- [Chatra](https://app.chatra.io/) - Live chat, chatbots, email & social messaging for business
+- [Chatra](https://app.chatra.io/) - Live chat, chatbots, email & social messaging for business.
 - [Cheat Code](https://cheatcode.co/login) - The application at https://cheatcode.co/login is written with Meteor.js.
 - [Code Signal](https://codesignal.com/) - Seamless technical hiring, from screening to interview.
 - [CSGO.NET](https://csgo.net/) - CSGO related website is written by Meteor.js.
@@ -182,7 +182,7 @@ Awesome packages listed in groups.
 - [md5hashing](https://md5hashing.net/) - The service provides tooling for hashing.
 - [Mockup Jar](https://mockupsjar.com/) - Eacy to use mockup generator.
 - [MongoBooster](https://www.mongobooster.com/) - The application is written with Meteor.js.
-- [Qualia](https://www.qualia.com/) - Powering real estate’s digital transformation.
+- [Qualia](https://www.qualia.com/) - Powering real estate's digital transformation.
 - [Plutio](https://www.plutio.com/) - Toolkit to run your business application at https://app.plutio.com/ is written with Meteor.js. 
 - [Ritapos](https://ritapos.com) - Cloud based POS solution for cafes & restaurants. Their point-of-sale application at https://app.ritapos.com is written with Meteor.js.
 - [Rocket Chat](https://www.rocket.chat/) - Largest open source communications community in the world is written with Meteor.js.
