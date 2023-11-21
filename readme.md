@@ -167,12 +167,12 @@ Awesome packages listed in groups.
 - [Biscoint](https://biscoint.io/) - Compare and find in realtime the best effective prices in Brazil's top Bitcoin exchanges. 
 - [Candis](https://app.candis.io/) - Digitize your invoice management now.
 - [Chatra](https://app.chatra.io/) - Live chat, chatbots, email & social messaging for business.
-- [Cheat Code](https://cheatcode.co/login) - The application at https://cheatcode.co/login is written with Meteor.js.
+- [Cheat Code](https://cheatcode.co/login) - The application is written with Meteor.js.
 - [Code Signal](https://codesignal.com/) - Seamless technical hiring, from screening to interview.
 - [CSGO.NET](https://csgo.net/) - CSGO related website is written by Meteor.js.
 - [Cuadds](https://www.cuadds.com/) - The productivity platform that lets you do things your way.
 - [Edabit](https://edabit.com/) - A better way to learn programming. 
-- [Favro](https://www.favro.com/) - Collaborative planning application at https://favro.com/l/login is written with Meteor.js.
+- [Favro](https://www.favro.com/) - Collaborative planning application is written with Meteor.js.
 - [Flow Hub](https://flowhub.com/) - Fast, reliable, and easy to use, Flowhub is the dispensary growth platform built for compliant, high-performing cannabis retailers.
 - [Hubro](https://hubro.education/) - Online business simulations that allow participants to practice business skills through experiential learning.
 - [Ledgy](https://ledgy.com/) - Ledgy is the equity management platform that takes your company further.
@@ -183,7 +183,7 @@ Awesome packages listed in groups.
 - [MongoBooster](https://www.mongobooster.com/) - The application is written with Meteor.js.
 - [Qualia](https://www.qualia.com/) - Powering real estate's digital transformation.
 - [Plutio](https://www.plutio.com/) - Toolkit to run your business application at https://app.plutio.com/ is written with Meteor.js. 
-- [Rankuup](https://rankuup.com/)
+- [Rankuup](https://rankuup.com/) - Digital marketing business.
 - [Ritapos](https://ritapos.com) - Cloud based POS solution for cafes & restaurants. Their point-of-sale application at https://app.ritapos.com is written with Meteor.js.
 - [Rocket Chat](https://www.rocket.chat/) - Largest open source communications community in the world is written with Meteor.js.
 - [Roti.express](https://roti.express/) - Get instant feedbacks from your meetings, training sessions, workshops, conferences.
@@ -193,7 +193,7 @@ Awesome packages listed in groups.
 - [Signature](https://si.gnatu.re/) - Create your personalised HTML email signature.
 - [Submit Hub](https://www.submithub.com/) - The most-transparent place to promote your music.
 - [Swydo](https://www.swydo.com/) - Automated Reporting and Monitoring for Online Marketers application at https://app.swydo.com/ is written with Meteor.js.
-- [Team Grid](https://web.teamgrid.app/) - Team management tool at https://web.teamgrid.app/ is written with Meteor.js.
+- [Team Grid](https://web.teamgrid.app/) - Team management tool.
 - [Testrigor](https://testrigor.com) - Generative AI-based test automation tool.
 - [The Forage](https://www.theforage.com/) - Explore careers and prepare for the job with hundreds of free job simulations designed by the world's top employers.
 - [Visibook](https://visibook.com/) - The easiest way to schedule customers and send appointment reminders.
