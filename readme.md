@@ -177,7 +177,6 @@ Awesome packages listed in groups.
 - [Hubro](https://hubro.education/) - Online business simulations that allow participants to practice business skills through experiential learning.
 - [Ledgy](https://ledgy.com/) - Ledgy is the equity management platform that takes your company further.
 - [Literary Universe](https://www.literaryuniverse.com/)
-- [Long Tail](https://longtailpro.com/) - Keyword research tool for long tail keywords at https://app.longtailpro.com/ is written with Meteor.js.
 - [Maestro QA](https://www.maestroqa.com/) - Improves agent performance, measure BPOs, power Root-Cause Analysis.
 - [md5hashing](https://md5hashing.net/) - The service provides tooling for hashing.
 - [Mockup Jar](https://mockupsjar.com/) - Eacy to use mockup generator.
