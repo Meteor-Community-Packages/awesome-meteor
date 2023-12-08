@@ -170,6 +170,8 @@ Awesome packages listed in groups.
 - [The Forage](https://www.theforage.com/)
 - [Wekan](https://wekan.github.io/)
 - [Rankuup](https://rankuup.com/)
+- [Fly me to](http://www.flymeto.com/)
+- [Onboardee.io](http://onboardee.io/)
 
 ## Open Source Apps
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Realtime chat application.
