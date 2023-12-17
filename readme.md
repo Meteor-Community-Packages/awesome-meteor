@@ -174,13 +174,15 @@ Awesome packages listed in groups.
 - [Edabit](https://edabit.com/) - A better way to learn programming. 
 - [Favro](https://www.favro.com/) - Collaborative planning application is written with Meteor.js.
 - [Flow Hub](https://flowhub.com/) - Fast, reliable, and easy to use, Flowhub is the dispensary growth platform built for compliant, high-performing cannabis retailers.
+- [Fly me to](http://www.flymeto.com/)
 - [Hubro](https://hubro.education/) - Online business simulations that allow participants to practice business skills through experiential learning.
 - [Ledgy](https://ledgy.com/) - Ledgy is the equity management platform that takes your company further.
-- [Literary Universe](https://www.literaryuniverse.com/)
+- [Literary Universe](https://www.literaryuniverse.com/) - All-in-one creative writing and publishing platform.
 - [Maestro QA](https://www.maestroqa.com/) - Improves agent performance, measure BPOs, power Root-Cause Analysis.
 - [md5hashing](https://md5hashing.net/) - The service provides tooling for hashing.
 - [Mockup Jar](https://mockupsjar.com/) - Eacy to use mockup generator.
 - [MongoBooster](https://www.mongobooster.com/) - The application is written with Meteor.js.
+- [Onboardee.io](http://onboardee.io/)
 - [Qualia](https://www.qualia.com/) - Powering real estate's digital transformation.
 - [Plutio](https://www.plutio.com/) - Toolkit to run your business application at https://app.plutio.com/ is written with Meteor.js. 
 - [Rankuup](https://rankuup.com/) - Digital marketing business.
